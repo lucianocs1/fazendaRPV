@@ -1,4 +1,6 @@
 pandas
 numpy
+scipy
 scikit-learn
 matplotlib
+folium

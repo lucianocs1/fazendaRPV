@@ -12,7 +12,11 @@ para medir a acurácia.
 pip install -r requirements.txt
 python gerar_cenario.py          # gera dados/*.csv
 python mvp_aviso.py CH-101       # ou AL-01, AL-02, AL-03, CH-102, CH-201, CH-301, CH-302
+python mapa_rede.py              # mapa interativo da rede completa
+python mapa_rede.py CH-101       # mapa interativo de um desligamento + aviso gerado
 ```
+
+Abra `saidas/mapa_rede.html` (ou `saidas/mapa_rede_ch_101.html`) no navegador.
 
 Saídas em `saidas/`: texto do aviso (atual × novo), mapa PNG e
 `clientes_com_comunidade.csv` (cliente → comunidade prevista + confiança).
@@ -20,12 +24,24 @@ Saídas em `saidas/`: texto do aviso (atual × novo), mapa PNG e
 ## Cenário (`gerar_cenario.py`)
 
 - 8 comunidades rurais, 30 sítios isolados, 223 clientes;
-- rede: 3 alimentadores, 5 chaves de ramal, ~98 transformadores;
+- rede: subestação "SE Cascalho", 3 alimentadores (tronco seguindo as estradas),
+  5 chaves de ramal, ~98 transformadores e ~106 trechos de rede MT
+  (ramais traçados por árvore geradora mínima entre a chave e seus transformadores);
 - problemas reais inseridos de propósito:
   - endereços sujos ("Sta. Rita", "Agua Lipma", "Cór. Fundo") e ~35% sem nome da comunidade;
   - ~5% das UCs sem coordenada (herdam a do transformador);
   - base oficial imperfeita: sem Cachoeirinha, Barreiro deslocado 1,2 km, "Fazenda Velha" sem clientes;
   - Santa Rita atendida por dois ramais (testa "parte da comunidade").
+
+## Mapa da rede (`mapa_rede.py`)
+
+Mapa interativo (Folium/Leaflet) com camadas que podem ser ligadas e desligadas:
+subestação, troncos e ramais por alimentador, chaves, transformadores, clientes
+(coloridos pela comunidade identificada), ligações cliente→trafo, contorno das
+comunidades, localidades oficiais e estradas. Fundo: mapa claro, OpenStreetMap ou satélite.
+
+Ao passar uma chave ou alimentador, a rede desligada e os clientes afetados ficam
+em vermelho, e um painel mostra o aviso de rádio gerado, com a redução de tempo.
 
 ## Pipeline (`mvp_aviso.py`)
 

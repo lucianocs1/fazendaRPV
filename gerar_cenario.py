@@ -13,8 +13,8 @@ Problemas do mundo real inseridos de propósito:
 
 A coluna `comunidade_real` é a verdade de campo, usada para medir a acurácia.
 
-Saída: pasta dados/ com clientes.csv, trafos.csv, chaves.csv e
-localidades_oficiais.csv.
+Saída: pasta dados/ com clientes.csv, trafos.csv, chaves.csv, subestacoes.csv,
+redes_mt.csv (traçado da rede) e localidades_oficiais.csv.
 """
 
 import math
@@ -59,14 +59,24 @@ COMUNIDADES = [
      ["Comunidade Capão Seco", "Capao Seco", "Capão Sêco", "Cap. Seco"]),
 ]
 
+SUBESTACAO = ("SE Cascalho", (0.0, 0.0))  # subestação na sede do município
+
+# Tronco de cada alimentador (km), saindo da subestação pelas estradas.
+TRONCOS = {
+    "AL-01": [(0, 0), (2, 4), (3.3, 5.0)],
+    "AL-02": [(0, 0), (5, 2), (10, 0), (15.6, -2.3)],
+    "AL-03": [(0, 0), (3, -2), (5.5, -2.8), (7.5, -4.0)],
+}
+
+# chave, alimentador, descrição e posição (km) sobre o tronco
 CHAVES = [
-    ("CH-101", "AL-01", "Ramal Cachoeirinha / Santa Rita (oeste)"),
-    ("CH-102", "AL-01", "Ramal Santa Rita (leste) / Água Limpa"),
-    ("CH-201", "AL-02", "Ramal Barreiro / Córrego Fundo"),
-    ("CH-301", "AL-03", "Ramal Boa Vista"),
-    ("CH-302", "AL-03", "Ramal Pedra Branca"),
+    ("CH-101", "AL-01", "Ramal Cachoeirinha / Santa Rita (oeste)", (2.0, 4.0)),
+    ("CH-102", "AL-01", "Ramal Santa Rita (leste) / Água Limpa", (3.3, 5.0)),
+    ("CH-201", "AL-02", "Ramal Barreiro / Córrego Fundo", (5.0, 2.0)),
+    ("CH-301", "AL-03", "Ramal Boa Vista", (5.5, -2.8)),
+    ("CH-302", "AL-03", "Ramal Pedra Branca", (7.5, -4.0)),
 ]
-ALIMENTADOR_DA_CHAVE = {c: a for c, a, _ in CHAVES}
+ALIMENTADOR_DA_CHAVE = {c[0]: c[1] for c in CHAVES}
 
 TIPOS_PROPRIEDADE = ["Sítio"] * 6 + ["Fazenda"] * 2 + ["Chácara"] * 2
 NOMES_PROPRIEDADE = [
@@ -115,6 +125,44 @@ def estrada_mais_proxima(x, y):
                 melhor = (nome, d, acum + t * np.linalg.norm(ab))
             acum += np.linalg.norm(ab)
     return melhor[0], melhor[2]
+
+
+def latlon_para_km(lat, lon):
+    return (lon - LON0) * M_POR_GRAU_LON / 1000, (lat - LAT0) * M_POR_GRAU_LAT / 1000
+
+
+def arvore_minima(pontos):
+    """Arestas (i, j) da árvore geradora mínima entre os pontos (traçado dos ramais)."""
+    from scipy.sparse.csgraph import minimum_spanning_tree
+    from scipy.spatial.distance import cdist
+
+    pts = np.asarray(pontos, dtype=float)
+    mst = minimum_spanning_tree(cdist(pts, pts)).tocoo()
+    return list(zip(mst.row, mst.col))
+
+
+def montar_rede(trafos):
+    """Trechos de rede MT: tronco dos alimentadores + ramais ligando cada chave aos seus trafos."""
+    trechos = []
+
+    def trecho(alim, chave, tipo, a, b):
+        (la1, lo1), (la2, lo2) = km_para_latlon(*a), km_para_latlon(*b)
+        trechos.append(dict(trecho_id=f"MT-{len(trechos) + 1:03d}", alimentador=alim, chave_id=chave,
+                            tipo=tipo, lat1=la1, lon1=lo1, lat2=la2, lon2=lo2))
+
+    for alim, pts in TRONCOS.items():
+        for a, b in zip(pts[:-1], pts[1:]):
+            trecho(alim, "", "tronco", a, b)
+
+    origem = {c[0]: c[3] for c in CHAVES}
+    trafos = trafos.assign(chave_id=trafos["chave_id"].fillna(""))
+    for (alim, chave), grupo in trafos.groupby(["alimentador", "chave_id"]):
+        # ramal sem chave (direto no tronco) parte do fim do tronco
+        inicio = origem.get(chave, TRONCOS[alim][-1])
+        pts = [inicio] + [latlon_para_km(la, lo) for la, lo in zip(grupo["lat"], grupo["lon"])]
+        for i, j in arvore_minima(pts):
+            trecho(alim, chave, "ramal", pts[i], pts[j])
+    return pd.DataFrame(trechos)
 
 
 def nome_propriedade(rng):
@@ -213,13 +261,21 @@ def main():
 
     pd.DataFrame(clientes).to_csv(PASTA / "clientes.csv", index=False)
     pd.DataFrame(trafos).to_csv(PASTA / "trafos.csv", index=False)
-    pd.DataFrame(CHAVES, columns=["chave_id", "alimentador", "descricao"]).to_csv(PASTA / "chaves.csv", index=False)
+    chaves = [dict(chave_id=c, alimentador=a, descricao=d, lat=km_para_latlon(*p)[0], lon=km_para_latlon(*p)[1])
+              for c, a, d, p in CHAVES]
+    pd.DataFrame(chaves).to_csv(PASTA / "chaves.csv", index=False)
+    lat, lon = km_para_latlon(*SUBESTACAO[1])
+    pd.DataFrame([dict(nome=SUBESTACAO[0], lat=lat, lon=lon, alimentadores=", ".join(TRONCOS))]).to_csv(
+        PASTA / "subestacoes.csv", index=False)
+    redes = montar_rede(pd.DataFrame(trafos))
+    redes.to_csv(PASTA / "redes_mt.csv", index=False)
     pd.DataFrame(locs).to_csv(PASTA / "localidades_oficiais.csv", index=False)
 
     df = pd.DataFrame(clientes)
     print(f"Cenário gerado em {PASTA}/")
     print(f"  clientes: {len(df)}  (sem coordenada: {df['lat'].isna().sum()})")
-    print(f"  transformadores: {len(trafos)}  chaves: {len(CHAVES)}  alimentadores: 3")
+    print(f"  transformadores: {len(trafos)}  chaves: {len(CHAVES)}  alimentadores: {len(TRONCOS)}"
+          f"  trechos de rede MT: {len(redes)}")
     print(f"  localidades oficiais: {len(locs)}")
     print(df["comunidade_real"].value_counts().to_string())
 
