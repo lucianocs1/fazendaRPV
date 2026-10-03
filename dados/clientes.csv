@@ -1,0 +1,224 @@
+uc_id,propriedade,endereco,lat,lon,trafo_id,comunidade_real
+UC-00001,Sítio Ipê Amarelo,"Sítio Ipê Amarelo, Bairro Rural Santa Rita",-18.443917770168927,-46.4644637327852,TR-001,Santa Rita
+UC-00002,Sítio Bom Jesus,"Sítio Bom Jesus, Com. Sta. Rita",-18.449171276609484,-46.46193475976362,TR-002,Santa Rita
+UC-00003,Fazenda Morro Alto,"Fazenda Morro Alto, Bairro Rural Santa Rita",-18.445825383014352,-46.46065163851757,TR-003,Santa Rita
+UC-00004,Fazenda Recanto Verde,"Fazenda Recanto Verde, Estrada do Cascalho, km 7",-18.450020614647624,-46.46183971795956,TR-004,Santa Rita
+UC-00005,Sítio Cachoeira,"Sítio Cachoeira, Comunidade Santa Rita",,,TR-005,Santa Rita
+UC-00006,Sítio Santa Luzia,"Sítio Santa Luzia, Área Rural",-18.448004124150263,-46.46089159600615,TR-006,Santa Rita
+UC-00007,Sítio Pinheirinho,"Sítio Pinheirinho, Sta Rita",-18.44882715771434,-46.46113752405372,TR-007,Santa Rita
+UC-00008,Sítio São Sebastião,"Sítio São Sebastião, Bairro Rural Santa Rita",-18.44432447809802,-46.46285433417171,TR-008,Santa Rita
+UC-00009,Sítio Boa Vista,"Sítio Boa Vista, Sta. Rita",-18.44482200771081,-46.460323853167736,TR-009,Santa Rita
+UC-00010,Sítio Pinheirinho,"Sítio Pinheirinho, Bairro Rural Santa Rita",-18.44757879754119,-46.464413329751096,TR-010,Santa Rita
+UC-00011,Fazenda São Pedro,"Fazenda São Pedro, Com. Sta. Rita",-18.44466177268669,-46.46356771740681,TR-011,Santa Rita
+UC-00012,Fazenda Três Irmãos,"Fazenda Três Irmãos, Sta. Rita",-18.44781204539038,-46.46065239686887,TR-012,Santa Rita
+UC-00013,Sítio Primavera,"Sítio Primavera, Com. Sta. Rita",-18.444423490973236,-46.46558705787996,TR-001,Santa Rita
+UC-00014,Sítio Taquaral,"Sítio Taquaral, Estrada do Cascalho, km 7",-18.448666113673465,-46.46282528673351,TR-002,Santa Rita
+UC-00015,Sítio Santa Luzia,"Sítio Santa Luzia, Santa Rita",-18.447557697913336,-46.46082392546008,TR-003,Santa Rita
+UC-00016,Sítio Santa Luzia,"Sítio Santa Luzia, Com. Sta. Rita",-18.44849942911865,-46.46273925279478,TR-004,Santa Rita
+UC-00017,Sítio Barra Mansa,"Sítio Barra Mansa, Zona Rural",-18.446190412523983,-46.4629003509358,TR-005,Santa Rita
+UC-00018,Fazenda Barra Mansa,"Fazenda Barra Mansa, Sta Rita",-18.446426161272722,-46.45926100914763,TR-006,Santa Rita
+UC-00019,Fazenda Recanto Verde,"Fazenda Recanto Verde, Santa Rita",-18.447819695891017,-46.460399549737346,TR-007,Santa Rita
+UC-00020,Sítio Cachoeira,"Sítio Cachoeira, Bairro Rural Santa Rita",-18.443127182420103,-46.462405143277955,TR-008,Santa Rita
+UC-00021,Sítio Santa Clara,"Sítio Santa Clara, Santa Rita",-18.446077388859617,-46.45956986197168,TR-009,Santa Rita
+UC-00022,Sítio Jatobá,"Sítio Jatobá, Com. Sta. Rita",-18.448097995805657,-46.465268956900026,TR-010,Santa Rita
+UC-00023,Sítio Jatobá,"Sítio Jatobá, Zona Rural",-18.44375049597835,-46.46298964791935,TR-011,Santa Rita
+UC-00024,Sítio Primavera,"Sítio Primavera, Estrada do Cascalho, km 7",-18.447000165603868,-46.459706397092795,TR-012,Santa Rita
+UC-00025,Fazenda Primavera,"Fazenda Primavera, Comunidade Santa Rita",-18.443755700542432,-46.4647224219331,TR-001,Santa Rita
+UC-00026,Chácara São Pedro,"Chácara São Pedro, Área Rural",-18.450081678178634,-46.4626722974359,TR-002,Santa Rita
+UC-00027,Sítio Monte Alegre,"Sítio Monte Alegre, Comunidade Santa Rita",-18.44513226571734,-46.460372551535045,TR-003,Santa Rita
+UC-00028,Chácara Estrela,"Chácara Estrela, Estrada do Cascalho, km 7",-18.45012292986324,-46.46145284127965,TR-004,Santa Rita
+UC-00029,Sítio Alvorada,"Sítio Alvorada, Santa Rita",-18.44675250992591,-46.46392919161902,TR-005,Santa Rita
+UC-00030,Fazenda Boa Esperança,"Fazenda Boa Esperança, Zona Rural",-18.445673729031707,-46.460170972775146,TR-006,Santa Rita
+UC-00031,Sítio Paraíso,"Sítio Paraíso, Sta. Rita",-18.449169459754945,-46.46012593845158,TR-007,Santa Rita
+UC-00032,Fazenda Capim Branco,"Fazenda Capim Branco, Comunidade Santa Rita",-18.443220514042736,-46.46116411635597,TR-008,Santa Rita
+UC-00033,Sítio Lagoa Seca,"Sítio Lagoa Seca, Estrada do Cascalho, km 8",-18.444392740522705,-46.458928012648855,TR-009,Santa Rita
+UC-00034,Sítio Retiro,"Sítio Retiro, Sta Rita",-18.449446808011302,-46.46448421846777,TR-010,Santa Rita
+UC-00035,Sítio Retiro,"Sítio Retiro, Povoado da Cachoeirinha",-18.42705468028483,-46.4853160645533,TR-013,Cachoeirinha
+UC-00036,Sítio Jatobá,"Sítio Jatobá, Zona Rural",-18.429522305096427,-46.486609266478226,TR-014,Cachoeirinha
+UC-00037,Sítio Nossa Senhora Aparecida,"Sítio Nossa Senhora Aparecida, Cachoeirinha",-18.426497937989524,-46.487435062787036,TR-015,Cachoeirinha
+UC-00038,Sítio Ipê Amarelo,"Sítio Ipê Amarelo, Cachoeirinha",-18.428563565449316,-46.482499377925095,TR-016,Cachoeirinha
+UC-00039,Sítio Santa Helena,"Sítio Santa Helena, Comunidade Cachoeirinha",-18.428784958343535,-46.486094368659124,TR-017,Cachoeirinha
+UC-00040,Chácara Três Irmãos,"Chácara Três Irmãos, Zona Rural",-18.4263665465668,-46.48571983694884,TR-018,Cachoeirinha
+UC-00041,Sítio Santa Luzia,"Sítio Santa Luzia, Comunidade Cachoeirinha",-18.428417343027704,-46.48363385772078,TR-019,Cachoeirinha
+UC-00042,Chácara Bom Jesus,"Chácara Bom Jesus, Povoado da Cachoeirinha",-18.427569085337943,-46.486778044612024,TR-013,Cachoeirinha
+UC-00043,Sítio Morro Alto,"Sítio Morro Alto, Comunidade Cachoeirinha",-18.42930090026663,-46.48549386549074,TR-014,Cachoeirinha
+UC-00044,Sítio Boa Esperança,"Sítio Boa Esperança, Povoado da Cachoeirinha",-18.425229021590727,-46.48730830814017,TR-015,Cachoeirinha
+UC-00045,Sítio Bom Jesus,"Sítio Bom Jesus, Povoado da Cachoeirinha",-18.427364290834472,-46.48204278325928,TR-016,Cachoeirinha
+UC-00046,Sítio Boa Sorte,"Sítio Boa Sorte, Estrada do Cascalho, km 7",-18.429696808088355,-46.48576867735853,TR-017,Cachoeirinha
+UC-00047,Sítio Lagoa Seca,"Sítio Lagoa Seca, s/n, Zona Rural",-18.42761437230202,-46.485750190178315,TR-018,Cachoeirinha
+UC-00048,Sítio Água Branca,"Sítio Água Branca, Cachoeirinha",-18.427942716071144,-46.48364412417124,TR-019,Cachoeirinha
+UC-00049,Fazenda São Pedro,"Fazenda São Pedro, Comunidade Cachoeirinha",-18.426021708416048,-46.4868926126527,TR-013,Cachoeirinha
+UC-00050,Fazenda Mangueiras,"Fazenda Mangueiras, Cachoeirinha",-18.430294822314696,-46.485558869697556,TR-014,Cachoeirinha
+UC-00051,Sítio Boa Sorte,"Sítio Boa Sorte, Povoado da Cachoeirinha",-18.426756387670476,-46.487131671777554,TR-015,Cachoeirinha
+UC-00052,Fazenda Vista Alegre,"Fazenda Vista Alegre, Área Rural",-18.426654962662603,-46.48291258847268,TR-016,Cachoeirinha
+UC-00053,Sítio Recanto Verde,"Sítio Recanto Verde, s/n, Zona Rural",-18.4299436294112,-46.48717413257917,TR-017,Cachoeirinha
+UC-00054,Chácara Boa Vista,"Chácara Boa Vista, s/n, Zona Rural",-18.42851981365536,-46.485019464596135,TR-018,Cachoeirinha
+UC-00055,Fazenda Estrela,"Fazenda Estrela, s/n, Zona Rural",-18.414296370476805,-46.425499467052035,TR-020,Água Limpa
+UC-00056,Sítio Recanto Verde,"Sítio Recanto Verde, Agua Lipma",-18.41470423241295,-46.425032652389994,TR-021,Água Limpa
+UC-00057,Chácara Capim Branco,"Chácara Capim Branco, Zona Rural",-18.41457535698962,-46.42760734057538,TR-022,Água Limpa
+UC-00058,Sítio Água Branca,"Sítio Água Branca, Estrada do Cascalho, km 13",-18.417075239827525,-46.422879923809745,TR-023,Água Limpa
+UC-00059,Sítio Monte Alegre,"Sítio Monte Alegre, Comunidade Água Limpa",-18.415485072035747,-46.427351582002395,TR-024,Água Limpa
+UC-00060,Sítio Água Branca,"Sítio Água Branca, Bairro Água Limpa",-18.415403926586873,-46.42283368917592,TR-025,Água Limpa
+UC-00061,Chácara Boa Esperança,"Chácara Boa Esperança, Agua Lipma",-18.41400118712736,-46.42296904385715,TR-026,Água Limpa
+UC-00062,Sítio Pinheirinho,"Sítio Pinheirinho, Área Rural",,,TR-027,Água Limpa
+UC-00063,Chácara Mangueiras,"Chácara Mangueiras, Com. Agua Limpa",-18.415981206519426,-46.42348629268488,TR-028,Água Limpa
+UC-00064,Sítio São José,"Sítio São José, Agua Lipma",-18.415005473378937,-46.42379399398807,TR-020,Água Limpa
+UC-00065,Fazenda Primavera,"Fazenda Primavera, Estrada do Cascalho, km 12",-18.415666463839152,-46.42496471599548,TR-021,Água Limpa
+UC-00066,Sítio Ipê Amarelo,"Sítio Ipê Amarelo, Comunidade Água Limpa",-18.415157318856927,-46.425836886702,TR-022,Água Limpa
+UC-00067,Sítio Cachoeira,"Sítio Cachoeira, s/n, Zona Rural",-18.417687303444207,-46.42405806665855,TR-023,Água Limpa
+UC-00068,Fazenda Lagoa Seca,"Fazenda Lagoa Seca, Agua Lipma",-18.41521280131106,-46.427109970430514,TR-024,Água Limpa
+UC-00069,Sítio Santa Helena,"Sítio Santa Helena, Zona Rural",-18.415314331466906,-46.42101130278457,TR-025,Água Limpa
+UC-00070,Sítio Monte Alegre,"Sítio Monte Alegre, Com. Agua Limpa",-18.413649429614573,-46.424800698486074,TR-026,Água Limpa
+UC-00071,Sítio Nossa Senhora Aparecida,"Sítio Nossa Senhora Aparecida, Bairro Água Limpa",-18.415543824879798,-46.424199707147075,TR-027,Água Limpa
+UC-00072,Fazenda Ipê Amarelo,"Fazenda Ipê Amarelo, Bairro Água Limpa",-18.415448962713356,-46.4230995942554,TR-028,Água Limpa
+UC-00073,Chácara Nossa Senhora Aparecida,"Chácara Nossa Senhora Aparecida, Com. Agua Limpa",-18.414904137580464,-46.424588949122466,TR-020,Água Limpa
+UC-00074,Sítio Três Irmãos,"Sítio Três Irmãos, Bairro Água Limpa",-18.414567765152313,-46.42633310876344,TR-021,Água Limpa
+UC-00075,Sítio Água Branca,"Sítio Água Branca, Comunidade Água Limpa",-18.414028712640413,-46.42568064626506,TR-022,Água Limpa
+UC-00076,Sítio Monte Alegre,"Sítio Monte Alegre, Área Rural",-18.417698423320115,-46.424345010913086,TR-023,Água Limpa
+UC-00077,Sítio Cachoeira,"Sítio Cachoeira, Agua Lipma",-18.414116700337395,-46.4278823597365,TR-024,Água Limpa
+UC-00078,Sítio Mangueiras,"Sítio Mangueiras, Bairro Água Limpa",-18.41619627425447,-46.420910980609875,TR-025,Água Limpa
+UC-00079,Sítio Morro Alto,"Sítio Morro Alto, Comunidade Água Limpa",-18.41463738883362,-46.42302566408609,TR-026,Água Limpa
+UC-00080,Sítio São Sebastião,"Sítio São Sebastião, Agua Limpa",-18.41506127372382,-46.42477420441513,TR-027,Água Limpa
+UC-00081,Fazenda Paraíso,"Fazenda Paraíso, Barreiro",-18.459275121504366,-46.38259241119814,TR-029,Barreiro
+UC-00082,Sítio Taquaral,"Sítio Taquaral, Estrada da Serra, km 13",-18.46171018176189,-46.38332133726721,TR-030,Barreiro
+UC-00083,Sítio São Pedro,"Sítio São Pedro, Zona Rural",-18.45757030310586,-46.38601839056468,TR-031,Barreiro
+UC-00084,Sítio Estrela,"Sítio Estrela, Povoado Barreiro",-18.457579476399662,-46.38438049398684,TR-032,Barreiro
+UC-00085,Sítio Retiro,"Sítio Retiro, Barreiro",-18.46051201853288,-46.385411169198186,TR-033,Barreiro
+UC-00086,Sítio Pinheirinho,"Sítio Pinheirinho, Estrada da Serra, km 13",-18.463357981064423,-46.38675684016379,TR-034,Barreiro
+UC-00087,Chácara Sossego,"Chácara Sossego, Área Rural",-18.461258150255944,-46.38780770568133,TR-035,Barreiro
+UC-00088,Fazenda Nossa Senhora Aparecida,"Fazenda Nossa Senhora Aparecida, Área Rural",-18.458527210676476,-46.38741714370515,TR-036,Barreiro
+UC-00089,Sítio Bom Jesus,"Sítio Bom Jesus, Estrada da Serra, km 13",-18.45874583166169,-46.382908806656125,TR-029,Barreiro
+UC-00090,Sítio São José,"Sítio São José, Zona Rural",-18.460893942130483,-46.38432098948074,TR-030,Barreiro
+UC-00091,Sítio Santo Antônio,"Sítio Santo Antônio, Povoado Barreiro",-18.45802058065178,-46.38529697766663,TR-031,Barreiro
+UC-00092,Chácara Barra Mansa,"Chácara Barra Mansa, Estrada da Serra, km 13",-18.457904526616893,-46.38572039603283,TR-032,Barreiro
+UC-00093,Sítio Bela Vista,"Sítio Bela Vista, Área Rural",-18.460909266990576,-46.38371795401515,TR-033,Barreiro
+UC-00094,Sítio Três Irmãos,"Sítio Três Irmãos, Estrada da Serra, km 13",-18.46254482927473,-46.38451711171602,TR-034,Barreiro
+UC-00095,Sítio Lagoa Seca,"Sítio Lagoa Seca, Bareiro",-18.460936929357707,-46.386490151788294,TR-035,Barreiro
+UC-00096,Sítio Bom Jesus,"Sítio Bom Jesus, Zona Rural",-18.45813904058386,-46.38730840866835,TR-036,Barreiro
+UC-00097,Sítio Primavera,"Sítio Primavera, Comunidade do Barreiro",,,TR-029,Barreiro
+UC-00098,Fazenda Santa Luzia,"Fazenda Santa Luzia, Estrada da Serra, km 13",-18.462023390589717,-46.38483015483203,TR-030,Barreiro
+UC-00099,Chácara Primavera,"Chácara Primavera, Comunidade do Barreiro",,,TR-031,Barreiro
+UC-00100,Chácara Monte Alegre,"Chácara Monte Alegre, Comunidade do Barreiro",-18.458921528330396,-46.38506207915927,TR-032,Barreiro
+UC-00101,Sítio Mangueiras,"Sítio Mangueiras, Bareiro",-18.458923469311017,-46.38446930779585,TR-033,Barreiro
+UC-00102,Chácara Bela Vista,"Chácara Bela Vista, Zona Rural",-18.461791930473694,-46.38678054021648,TR-034,Barreiro
+UC-00103,Sítio Jatobá,"Sítio Jatobá, s/n, Zona Rural",-18.46182929294912,-46.387141554098186,TR-035,Barreiro
+UC-00104,Sítio Mangueiras,"Sítio Mangueiras, Povoado Barreiro",-18.458027494628773,-46.38719078827611,TR-036,Barreiro
+UC-00105,Chácara Estrela,"Chácara Estrela, Corr. Fundo",-18.427506995035817,-46.36076180747582,TR-037,Córrego Fundo
+UC-00106,Fazenda Mangueiras,"Fazenda Mangueiras, Comunidade Córrego Fundo",-18.426407737027233,-46.358906051553454,TR-038,Córrego Fundo
+UC-00107,Sítio São Sebastião,"Sítio São Sebastião, Estrada da Serra, km 18",-18.426280127889534,-46.357981922175135,TR-039,Córrego Fundo
+UC-00108,Sítio Palmeiras,"Sítio Palmeiras, Estrada da Serra, km 18",-18.4280693144801,-46.35726810847356,TR-040,Córrego Fundo
+UC-00109,Sítio Recanto Verde,"Sítio Recanto Verde, Estrada da Serra, km 18",-18.426686756780892,-46.35964480345436,TR-041,Córrego Fundo
+UC-00110,Chácara Taquaral,"Chácara Taquaral, Cór. Fundo",-18.4283505239062,-46.355335801392506,TR-042,Córrego Fundo
+UC-00111,Sítio Pau d'Alho,"Sítio Pau d'Alho, Corrego Fundo",-18.42859290692529,-46.360484655749346,TR-043,Córrego Fundo
+UC-00112,Fazenda Santa Clara,"Fazenda Santa Clara, s/n, Zona Rural",-18.42864534613501,-46.3571370275864,TR-044,Córrego Fundo
+UC-00113,Sítio Nossa Senhora Aparecida,"Sítio Nossa Senhora Aparecida, Zona Rural",-18.428079413430922,-46.35953064139877,TR-037,Córrego Fundo
+UC-00114,Sítio Água Branca,"Sítio Água Branca, Estrada da Serra, km 18",-18.426627804769105,-46.35905111953566,TR-038,Córrego Fundo
+UC-00115,Chácara Morro Alto,"Chácara Morro Alto, Área Rural",-18.42674833356744,-46.3576682985307,TR-039,Córrego Fundo
+UC-00116,Sítio Santa Helena,"Sítio Santa Helena, Corrego Fundo",,,TR-040,Córrego Fundo
+UC-00117,Sítio São José,"Sítio São José, Corr. Fundo",-18.426710533218404,-46.358618420450966,TR-041,Córrego Fundo
+UC-00118,Sítio Recanto Verde,"Sítio Recanto Verde, Corrego Fundo",-18.427488857757155,-46.3561883927686,TR-042,Córrego Fundo
+UC-00119,Sítio Cachoeira,"Sítio Cachoeira, Corr. Fundo",-18.4287627880977,-46.36007611857376,TR-043,Córrego Fundo
+UC-00120,Fazenda São Sebastião,"Fazenda São Sebastião, Cór. Fundo",-18.429275914288056,-46.35615672842834,TR-044,Córrego Fundo
+UC-00121,Sítio São Pedro,"Sítio São Pedro, Estrada da Serra, km 17",-18.42883572759056,-46.36011749753061,TR-037,Córrego Fundo
+UC-00122,Chácara Santa Clara,"Chácara Santa Clara, Corrego Fundo",,,TR-038,Córrego Fundo
+UC-00123,Sítio Mangueiras,"Sítio Mangueiras, Área Rural",-18.428054184635027,-46.35779616049928,TR-039,Córrego Fundo
+UC-00124,Fazenda Três Irmãos,"Fazenda Três Irmãos, s/n, Zona Rural",-18.427299410458623,-46.35747890864297,TR-040,Córrego Fundo
+UC-00125,Sítio Monte Alegre,"Sítio Monte Alegre, Corr. Fundo",-18.42645709703378,-46.35898995566825,TR-041,Córrego Fundo
+UC-00126,Sítio Monte Alegre,"Sítio Monte Alegre, Comunidade Córrego Fundo",-18.429420049321756,-46.35526379036419,TR-042,Córrego Fundo
+UC-00127,Sítio Boa Esperança,"Sítio Boa Esperança, Bairro Rural Boa Vista",-18.529235748096085,-46.442796765788486,TR-045,Boa Vista
+UC-00128,Fazenda Bom Jesus,"Fazenda Bom Jesus, Zona Rural",-18.53371125271207,-46.44155548915003,TR-046,Boa Vista
+UC-00129,Chácara Boa Vista,"Chácara Boa Vista, Bairro Rural Boa Vista",-18.532126293773445,-46.4430996413315,TR-047,Boa Vista
+UC-00130,Fazenda Alvorada,"Fazenda Alvorada, Comunidade Boa Vista",-18.533223810384687,-46.44126219784253,TR-048,Boa Vista
+UC-00131,Fazenda Água Branca,"Fazenda Água Branca, Estrada Velha, km 7",-18.53287634735681,-46.44547371811218,TR-049,Boa Vista
+UC-00132,Sítio Água Branca,"Sítio Água Branca, B. Vista",-18.52973402949025,-46.44482944463719,TR-050,Boa Vista
+UC-00133,Chácara Santa Helena,"Chácara Santa Helena, B. Vista",-18.534591995469594,-46.443709896721515,TR-051,Boa Vista
+UC-00134,Sítio São José,"Sítio São José, Área Rural",-18.533047283666214,-46.443954836810065,TR-052,Boa Vista
+UC-00135,Fazenda Bela Vista,"Fazenda Bela Vista, Boa Vista",-18.529545280816837,-46.446478330677024,TR-053,Boa Vista
+UC-00136,Fazenda Paraíso,"Fazenda Paraíso, Estrada Velha, km 7",-18.527995739913248,-46.44375706130435,TR-045,Boa Vista
+UC-00137,Sítio Morro Alto,"Sítio Morro Alto, B. Vista",-18.532890053932547,-46.44163982779672,TR-046,Boa Vista
+UC-00138,Sítio Taquaral,"Sítio Taquaral, s/n, Zona Rural",-18.531626837464305,-46.443801046438956,TR-047,Boa Vista
+UC-00139,Sítio Nossa Senhora Aparecida,"Sítio Nossa Senhora Aparecida, Estrada Velha, km 7",-18.533153645844223,-46.44206903817778,TR-048,Boa Vista
+UC-00140,Chácara Bom Jesus,"Chácara Bom Jesus, Comunidade Boa Vista",-18.531795468467,-46.443087634792754,TR-049,Boa Vista
+UC-00141,Fazenda Cachoeira,"Fazenda Cachoeira, B. Vista",-18.530488355311636,-46.444705805617964,TR-050,Boa Vista
+UC-00142,Sítio Alvorada,"Sítio Alvorada, Área Rural",-18.53421241299047,-46.44320272348281,TR-051,Boa Vista
+UC-00143,Sítio Barra Mansa,"Sítio Barra Mansa, B. Vista",-18.5344579680664,-46.44298668974469,TR-052,Boa Vista
+UC-00144,Chácara Alvorada,"Chácara Alvorada, Zona Rural",-18.52930384875786,-46.444705580749,TR-053,Boa Vista
+UC-00145,Chácara Santa Luzia,"Chácara Santa Luzia, Estrada Velha, km 7",-18.52840803820358,-46.443784523843476,TR-045,Boa Vista
+UC-00146,Sítio Primavera,"Sítio Primavera, Comunidade Boa Vista",-18.53246542093755,-46.44188031602318,TR-046,Boa Vista
+UC-00147,Chácara Nossa Senhora Aparecida,"Chácara Nossa Senhora Aparecida, Boa Vista",-18.531791634131654,-46.44474615683648,TR-047,Boa Vista
+UC-00148,Sítio Bela Vista,"Sítio Bela Vista, s/n, Zona Rural",-18.53177104172662,-46.44150706046415,TR-048,Boa Vista
+UC-00149,Chácara Três Irmãos,"Chácara Três Irmãos, Boa Vista",-18.531401023771604,-46.444058096000774,TR-049,Boa Vista
+UC-00150,Chácara Vista Alegre,"Chácara Vista Alegre, Bairro Rural Boa Vista",-18.528980393860525,-46.445547466956626,TR-050,Boa Vista
+UC-00151,Sítio Três Irmãos,"Sítio Três Irmãos, s/n, Zona Rural",-18.533821536476907,-46.44292942590244,TR-051,Boa Vista
+UC-00152,Sítio Ipê Amarelo,"Sítio Ipê Amarelo, Pedra Branca",-18.556092360022816,-46.39648694957167,TR-054,Pedra Branca
+UC-00153,Sítio Pinheirinho,"Sítio Pinheirinho, Zona Rural",-18.558317721943013,-46.3953413738113,TR-055,Pedra Branca
+UC-00154,Fazenda Taquaral,"Fazenda Taquaral, Pedra Bca",-18.55977494733002,-46.39858099991799,TR-056,Pedra Branca
+UC-00155,Sítio Boa Vista,"Sítio Boa Vista, Estrada Velha, km 13",-18.56017819387163,-46.3939135645634,TR-057,Pedra Branca
+UC-00156,Sítio Santo Antônio,"Sítio Santo Antônio, Zona Rural",-18.559753167467306,-46.39527245628047,TR-058,Pedra Branca
+UC-00157,Sítio Santa Luzia,"Sítio Santa Luzia, Pedra Bca",-18.559990262327833,-46.39776337723614,TR-059,Pedra Branca
+UC-00158,Chácara Santa Luzia,"Chácara Santa Luzia, Pedra Branca",-18.5574888044698,-46.396300516918565,TR-060,Pedra Branca
+UC-00159,Sítio Pinheirinho,"Sítio Pinheirinho, s/n, Zona Rural",-18.556718311606744,-46.39739671741775,TR-054,Pedra Branca
+UC-00160,Sítio Barra Mansa,"Sítio Barra Mansa, Zona Rural",-18.5588323076597,-46.39532404321492,TR-055,Pedra Branca
+UC-00161,Sítio Palmeiras,"Sítio Palmeiras, s/n, Zona Rural",-18.559461857499304,-46.397607322224125,TR-056,Pedra Branca
+UC-00162,Sítio Retiro,"Sítio Retiro, Pedra Branca",-18.56132716050254,-46.39624730406407,TR-057,Pedra Branca
+UC-00163,Sítio Palmeiras,"Sítio Palmeiras, Pedra Bca",-18.558139116141547,-46.39585146281875,TR-058,Pedra Branca
+UC-00164,Sítio Santo Antônio,"Sítio Santo Antônio, s/n, Zona Rural",-18.55930311624592,-46.39797022858488,TR-059,Pedra Branca
+UC-00165,Chácara Sossego,"Chácara Sossego, Pedra Branca",-18.559091587795358,-46.3963444710553,TR-060,Pedra Branca
+UC-00166,Chácara São José,"Chácara São José, Estrada Velha, km 13",-18.556532771473396,-46.39589085572234,TR-054,Pedra Branca
+UC-00167,Fazenda Vista Alegre,"Fazenda Vista Alegre, Pedra Bca",-18.557010804223204,-46.39606790156176,TR-055,Pedra Branca
+UC-00168,Sítio Paraíso,"Sítio Paraíso, Estrada Velha, km 13",-18.55939973673397,-46.39841499226834,TR-056,Pedra Branca
+UC-00169,Sítio Boa Sorte,"Sítio Boa Sorte, Área Rural",-18.5603882630303,-46.39524232348426,TR-057,Pedra Branca
+UC-00170,Fazenda Nossa Senhora Aparecida,"Fazenda Nossa Senhora Aparecida, Comunidade Pedra Branca",-18.558931169104202,-46.393830035880825,TR-058,Pedra Branca
+UC-00171,Sítio Boa Vista,"Sítio Boa Vista, Povoado Pedra Branca",-18.560100305132785,-46.39590783621453,TR-059,Pedra Branca
+UC-00172,Sítio Nossa Senhora Aparecida,"Sítio Nossa Senhora Aparecida, Capao Seco",-18.521989476728113,-46.34813612959114,TR-061,Capão Seco
+UC-00173,Sítio Boa Sorte,"Sítio Boa Sorte, Rodovia Municipal 040, km 12",-18.52044280935229,-46.34772940208292,TR-062,Capão Seco
+UC-00174,Fazenda Boa Sorte,"Fazenda Boa Sorte, Comunidade Capão Seco",-18.52146154727599,-46.34751806596414,TR-063,Capão Seco
+UC-00175,Chácara São Pedro,"Chácara São Pedro, Comunidade Capão Seco",-18.52219232059425,-46.34874202730983,TR-064,Capão Seco
+UC-00176,Sítio Água Branca,"Sítio Água Branca, Zona Rural",-18.523861334301195,-46.348739649127296,TR-065,Capão Seco
+UC-00177,Fazenda Santa Clara,"Fazenda Santa Clara, Rodovia Municipal 040, km 12",-18.52210449888168,-46.34625211763263,TR-066,Capão Seco
+UC-00178,Chácara Monte Alegre,"Chácara Monte Alegre, Capão Sêco",-18.522427698788444,-46.35103974345271,TR-067,Capão Seco
+UC-00179,Fazenda Ipê Amarelo,"Fazenda Ipê Amarelo, Capao Seco",-18.524073321732153,-46.34853369521811,TR-068,Capão Seco
+UC-00180,Sítio Barra Mansa,"Sítio Barra Mansa, Comunidade Capão Seco",-18.522406516076146,-46.3466479764775,TR-061,Capão Seco
+UC-00181,Fazenda Boa Vista,"Fazenda Boa Vista, Cap. Seco",-18.520594994655283,-46.34806076540492,TR-062,Capão Seco
+UC-00182,Fazenda Taquaral,"Fazenda Taquaral, s/n, Zona Rural",-18.521294418396717,-46.346881970571694,TR-063,Capão Seco
+UC-00183,Sítio Retiro,"Sítio Retiro, Capão Sêco",-18.521850929292583,-46.350118487757626,TR-064,Capão Seco
+UC-00184,Sítio Monte Alegre,"Sítio Monte Alegre, Comunidade Capão Seco",-18.523673549601938,-46.34788511202351,TR-065,Capão Seco
+UC-00185,Sítio Barra Mansa,"Sítio Barra Mansa, Rodovia Municipal 040, km 12",-18.52220864133445,-46.34723581104451,TR-066,Capão Seco
+UC-00186,Sítio São Pedro,"Sítio São Pedro, Capão Sêco",-18.52277652491197,-46.351430943588475,TR-067,Capão Seco
+UC-00187,Fazenda Vista Alegre,"Fazenda Vista Alegre, Cap. Seco",-18.52307375336915,-46.34852448080408,TR-068,Capão Seco
+UC-00188,Chácara Morro Alto,"Chácara Morro Alto, Zona Rural",-18.52296170706805,-46.34886848730481,TR-061,Capão Seco
+UC-00189,Sítio São José,"Sítio São José, Comunidade Capão Seco",-18.521861116213646,-46.347294185794176,TR-062,Capão Seco
+UC-00190,Sítio Bela Vista,"Sítio Bela Vista, Zona Rural",-18.51991405534637,-46.347098581208805,TR-063,Capão Seco
+UC-00191,Sítio Capim Branco,"Sítio Capim Branco, Capão Sêco",-18.522107574481836,-46.349917606311465,TR-064,Capão Seco
+UC-00192,Fazenda Recanto Verde,"Fazenda Recanto Verde, Capao Seco",-18.523099799138343,-46.3479569467647,TR-065,Capão Seco
+UC-00193,Fazenda Recanto Verde,"Fazenda Recanto Verde, Cap. Seco",-18.52378842886819,-46.34656845441689,TR-066,Capão Seco
+UC-00194,Sítio São Sebastião,"Sítio São Sebastião, Estrada da Serra, km 7",-18.479444805286946,-46.436623020128366,TR-069,ISOLADO
+UC-00195,Sítio Bela Vista,"Sítio Bela Vista, Estrada da Serra, km 7",-18.475277485867313,-46.437126805272,TR-070,ISOLADO
+UC-00196,Sítio Sossego,"Sítio Sossego, Estrada do Cascalho, km 2",-18.48726728404122,-46.491664100185105,TR-071,ISOLADO
+UC-00197,Fazenda Bom Jesus,"Fazenda Bom Jesus, Estrada da Serra, km 11",-18.472329537494765,-46.40276192983449,TR-072,ISOLADO
+UC-00198,Sítio Monte Alegre,"Sítio Monte Alegre, Estrada da Serra, km 10",-18.473003774250177,-46.40933388582164,TR-073,ISOLADO
+UC-00199,Sítio Retiro,"Sítio Retiro, Rodovia Municipal 040, km 5",-18.499184039175116,-46.40998157969093,TR-074,ISOLADO
+UC-00200,Sítio Jatobá,"Sítio Jatobá, Rodovia Municipal 040, km 7",-18.508332016769828,-46.390297149444535,TR-075,ISOLADO
+UC-00201,Sítio Retiro,"Sítio Retiro, Estrada Velha, km 9",-18.539453953771684,-46.42378739781753,TR-076,ISOLADO
+UC-00202,Sítio Pau d'Alho,"Sítio Pau d'Alho, Rodovia Municipal 040, km 10",-18.516679559577337,-46.36100422349132,TR-077,ISOLADO
+UC-00203,Sítio Taquaral,"Sítio Taquaral, Estrada da Serra, km 9",-18.469745421902218,-46.41624583936398,TR-078,ISOLADO
+UC-00204,Sítio Recanto Verde,"Sítio Recanto Verde, Rodovia Municipal 040, km 7",-18.509888982356117,-46.388027449831434,TR-079,ISOLADO
+UC-00205,Chácara Boa Sorte,"Chácara Boa Sorte, Rodovia Municipal 040, km 5",-18.50031277896791,-46.409529766504356,TR-080,ISOLADO
+UC-00206,Chácara Lagoa Seca,"Chácara Lagoa Seca, Estrada do Cascalho, km 5",-18.46272228459622,-46.4697033583734,TR-081,ISOLADO
+UC-00207,Fazenda Cachoeira,"Fazenda Cachoeira, Estrada da Serra, km 3",,,TR-082,ISOLADO
+UC-00208,Sítio Bom Jesus,"Sítio Bom Jesus, Estrada Velha, km 5",-18.52230522028568,-46.46333084380462,TR-083,ISOLADO
+UC-00209,Chácara Cachoeira,"Chácara Cachoeira, Estrada da Serra, km 2",-18.489883045837203,-46.48041744423505,TR-084,ISOLADO
+UC-00210,Sítio Taquaral,"Sítio Taquaral, Estrada do Cascalho, km 1",,,TR-085,ISOLADO
+UC-00211,Sítio Capim Branco,"Sítio Capim Branco, Estrada do Cascalho, km 5",-18.453152725837906,-46.479521985947756,TR-086,ISOLADO
+UC-00212,Fazenda Monte Alegre,"Fazenda Monte Alegre, Rodovia Municipal 040, km 1",-18.49058667792304,-46.438967155438114,TR-087,ISOLADO
+UC-00213,Sítio Taquaral,"Sítio Taquaral, Rodovia Municipal 040, km 5",-18.495660647209856,-46.411745172348404,TR-088,ISOLADO
+UC-00214,Fazenda Santa Helena,"Fazenda Santa Helena, Rodovia Municipal 040, km 4",-18.49962944597886,-46.41556283786378,TR-089,ISOLADO
+UC-00215,Chácara Estrela,"Chácara Estrela, Estrada Velha, km 10",-18.545828856911463,-46.41617723404229,TR-090,ISOLADO
+UC-00216,Sítio Alvorada,"Sítio Alvorada, Estrada da Serra, km 9",-18.470683444667195,-46.422333935829684,TR-091,ISOLADO
+UC-00217,Sítio Capim Branco,"Sítio Capim Branco, Estrada do Cascalho, km 2",-18.490259242645955,-46.492043190924036,TR-092,ISOLADO
+UC-00218,Chácara Paraíso,"Chácara Paraíso, Estrada do Cascalho, km 3",-18.47720970461096,-46.488851673774526,TR-093,ISOLADO
+UC-00219,Sítio Estrela,"Sítio Estrela, Estrada da Serra, km 2",-18.496479934202263,-46.48629836291286,TR-094,ISOLADO
+UC-00220,Fazenda Santa Helena,"Fazenda Santa Helena, Estrada Velha, km 3",-18.510167346385618,-46.47569288314698,TR-095,ISOLADO
+UC-00221,Fazenda Taquaral,"Fazenda Taquaral, Estrada do Cascalho, km 2",-18.486052783242407,-46.49138692916994,TR-096,ISOLADO
+UC-00222,Sítio Pinheirinho,"Sítio Pinheirinho, Estrada da Serra, km 10",-18.469474913070343,-46.41328151116846,TR-097,ISOLADO
+UC-00223,Fazenda Capim Branco,"Fazenda Capim Branco, Estrada do Cascalho, km 4",-18.470228723223933,-46.47922829992631,TR-098,ISOLADO
