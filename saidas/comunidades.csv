@@ -1,0 +1,10 @@
+﻿comunidade;residencias;confianca;fonte_do_nome;lat_centro;lon_centro;raio_m;area_km2;pct_com_nome_no_endereco;grafias_encontradas;alimentadores;chaves;transformadores
+Santa Rita;34;alta;base oficial + endereços;-18.44665;-46.462015;451;0.426;71;"Bairro Rural Santa Rita (5); Com. Sta. Rita (5); Comunidade Santa Rita (4); Santa Rita (4); Sta Rita (3); Sta. Rita (3)";AL-01 (34);CH-102 (20), CH-101 (14);12
+Água Limpa;26;alta;base oficial + endereços;-18.415261;-46.424569;400;0.209;69;"Agua Lipma (5); Bairro Água Limpa (5); Comunidade Água Limpa (4); Com. Agua Limpa (3); Agua Limpa (1)";AL-01 (26);CH-102 (26);9
+Boa Vista;25;alta;base oficial + endereços;-18.531706;-46.443503;414;0.252;56;"B. Vista (5); Bairro Rural Boa Vista (3); Comunidade Boa Vista (3); Boa Vista (3)";AL-03 (25);CH-301 (25);9
+Barreiro;24;alta;base oficial + endereços;-18.45987;-46.385353;416;0.258;42;"Povoado Barreiro (3); Comunidade do Barreiro (3); Barreiro (2); Bareiro (2)";AL-02 (24);CH-201 (24);8
+Capão Seco;22;alta;base oficial + endereços;-18.52228;-46.348235;342;0.142;68;"Comunidade Capão Seco (5); Capão Sêco (4); Capao Seco (3); Cap. Seco (3)";AL-02 (22);tronco (22);8
+Córrego Fundo;22;alta;base oficial + endereços;-18.427717;-46.358239;367;0.134;55;"Corr. Fundo (4); Corrego Fundo (4); Comunidade Córrego Fundo (2); Cór. Fundo (2)";AL-02 (22);CH-201 (22);8
+Cachoeirinha;20;média;endereços;-18.427906;-46.485439;364;0.212;65;"Povoado da Cachoeirinha (5); Cachoeirinha (4); Comunidade Cachoeirinha (4)";AL-01 (20);CH-101 (20);7
+Pedra Branca;20;alta;base oficial + endereços;-18.558842;-46.396288;307;0.179;50;"Pedra Branca (4); Pedra Bca (4); Comunidade Pedra Branca (1); Povoado Pedra Branca (1)";AL-03 (20);CH-302 (20);7
+(sem comunidade);30;-;residências fora de qualquer agrupamento;;;;;;;AL-01 (12), AL-02 (9), AL-03 (9);CH-101 (10), CH-301 (8), CH-201 (6), tronco (3), CH-102 (2), CH-302 (1);30

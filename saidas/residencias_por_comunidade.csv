@@ -1,0 +1,224 @@
+﻿comunidade;confianca;uc_id;propriedade;endereco;nome_no_endereco;lat;lon;coordenada;distancia_centro_m;comunidade_mais_proxima;trafo_id;chave_id;alimentador
+Santa Rita;alta;UC-00017;Sítio Barra Mansa;Sítio Barra Mansa, Zona Rural;;-18.44619;-46.4629;própria;107;;TR-005;CH-101;AL-01
+Santa Rita;alta;UC-00015;Sítio Santa Luzia;Sítio Santa Luzia, Santa Rita;Santa Rita;-18.447558;-46.460824;própria;161;;TR-003;CH-102;AL-01
+Santa Rita;alta;UC-00005;Sítio Cachoeira;Sítio Cachoeira, Comunidade Santa Rita;Santa Rita;-18.445746;-46.463271;herdada do trafo;166;;TR-005;CH-101;AL-01
+Santa Rita;alta;UC-00003;Fazenda Morro Alto;Fazenda Morro Alto, Bairro Rural Santa Rita;Santa Rita;-18.445825;-46.460652;própria;171;;TR-003;CH-102;AL-01
+Santa Rita;alta;UC-00006;Sítio Santa Luzia;Sítio Santa Luzia, Área Rural;;-18.448004;-46.460892;própria;192;;TR-006;CH-102;AL-01
+Santa Rita;alta;UC-00012;Fazenda Três Irmãos;Fazenda Três Irmãos, Sta. Rita;Santa Rita;-18.447812;-46.460652;própria;193;;TR-012;CH-102;AL-01
+Santa Rita;alta;UC-00029;Sítio Alvorada;Sítio Alvorada, Santa Rita;Santa Rita;-18.446753;-46.463929;própria;202;;TR-005;CH-101;AL-01
+Santa Rita;alta;UC-00019;Fazenda Recanto Verde;Fazenda Recanto Verde, Santa Rita;Santa Rita;-18.44782;-46.4604;própria;215;;TR-007;CH-102;AL-01
+Santa Rita;alta;UC-00016;Sítio Santa Luzia;Sítio Santa Luzia, Com. Sta. Rita;Santa Rita;-18.448499;-46.462739;própria;220;;TR-004;CH-102;AL-01
+Santa Rita;alta;UC-00030;Fazenda Boa Esperança;Fazenda Boa Esperança, Zona Rural;;-18.445674;-46.460171;própria;223;;TR-006;CH-102;AL-01
+Santa Rita;alta;UC-00014;Sítio Taquaral;Sítio Taquaral, Estrada do Cascalho, km 7;;-18.448666;-46.462825;própria;240;;TR-002;CH-101;AL-01
+Santa Rita;alta;UC-00027;Sítio Monte Alegre;Sítio Monte Alegre, Comunidade Santa Rita;Santa Rita;-18.445132;-46.460373;própria;242;;TR-003;CH-102;AL-01
+Santa Rita;alta;UC-00024;Sítio Primavera;Sítio Primavera, Estrada do Cascalho, km 7;;-18.447;-46.459706;própria;247;;TR-012;CH-102;AL-01
+Santa Rita;alta;UC-00007;Sítio Pinheirinho;Sítio Pinheirinho, Sta Rita;Santa Rita;-18.448827;-46.461138;própria;259;;TR-007;CH-102;AL-01
+Santa Rita;alta;UC-00021;Sítio Santa Clara;Sítio Santa Clara, Santa Rita;Santa Rita;-18.446077;-46.45957;própria;266;;TR-009;CH-102;AL-01
+Santa Rita;alta;UC-00009;Sítio Boa Vista;Sítio Boa Vista, Sta. Rita;Santa Rita;-18.444822;-46.460324;própria;271;;TR-009;CH-102;AL-01
+Santa Rita;alta;UC-00008;Sítio São Sebastião;Sítio São Sebastião, Bairro Rural Santa Rita;Santa Rita;-18.444324;-46.462854;própria;274;;TR-008;CH-102;AL-01
+Santa Rita;alta;UC-00010;Sítio Pinheirinho;Sítio Pinheirinho, Bairro Rural Santa Rita;Santa Rita;-18.447579;-46.464413;própria;274;;TR-010;CH-101;AL-01
+Santa Rita;alta;UC-00011;Fazenda São Pedro;Fazenda São Pedro, Com. Sta. Rita;Santa Rita;-18.444662;-46.463568;própria;275;;TR-011;CH-101;AL-01
+Santa Rita;alta;UC-00002;Sítio Bom Jesus;Sítio Bom Jesus, Com. Sta. Rita;Santa Rita;-18.449171;-46.461935;própria;281;;TR-002;CH-101;AL-01
+Santa Rita;alta;UC-00018;Fazenda Barra Mansa;Fazenda Barra Mansa, Sta Rita;Santa Rita;-18.446426;-46.459261;própria;292;;TR-006;CH-102;AL-01
+Santa Rita;alta;UC-00023;Sítio Jatobá;Sítio Jatobá, Zona Rural;;-18.44375;-46.46299;própria;339;;TR-011;CH-101;AL-01
+Santa Rita;alta;UC-00031;Sítio Paraíso;Sítio Paraíso, Sta. Rita;Santa Rita;-18.449169;-46.460126;própria;344;;TR-007;CH-102;AL-01
+Santa Rita;alta;UC-00004;Fazenda Recanto Verde;Fazenda Recanto Verde, Estrada do Cascalho, km 7;;-18.450021;-46.46184;própria;376;;TR-004;CH-102;AL-01
+Santa Rita;alta;UC-00022;Sítio Jatobá;Sítio Jatobá, Com. Sta. Rita;Santa Rita;-18.448098;-46.465269;própria;380;;TR-010;CH-101;AL-01
+Santa Rita;alta;UC-00026;Chácara São Pedro;Chácara São Pedro, Área Rural;;-18.450082;-46.462672;própria;388;;TR-002;CH-101;AL-01
+Santa Rita;alta;UC-00028;Chácara Estrela;Chácara Estrela, Estrada do Cascalho, km 7;;-18.450123;-46.461453;própria;391;;TR-004;CH-102;AL-01
+Santa Rita;alta;UC-00032;Fazenda Capim Branco;Fazenda Capim Branco, Comunidade Santa Rita;Santa Rita;-18.443221;-46.461164;própria;392;;TR-008;CH-102;AL-01
+Santa Rita;alta;UC-00020;Sítio Cachoeira;Sítio Cachoeira, Bairro Rural Santa Rita;Santa Rita;-18.443127;-46.462405;própria;394;;TR-008;CH-102;AL-01
+Santa Rita;alta;UC-00001;Sítio Ipê Amarelo;Sítio Ipê Amarelo, Bairro Rural Santa Rita;Santa Rita;-18.443918;-46.464464;própria;399;;TR-001;CH-101;AL-01
+Santa Rita;alta;UC-00034;Sítio Retiro;Sítio Retiro, Sta Rita;Santa Rita;-18.449447;-46.464484;própria;406;;TR-010;CH-101;AL-01
+Santa Rita;alta;UC-00033;Sítio Lagoa Seca;Sítio Lagoa Seca, Estrada do Cascalho, km 8;;-18.444393;-46.458928;própria;412;;TR-009;CH-102;AL-01
+Santa Rita;alta;UC-00025;Fazenda Primavera;Fazenda Primavera, Comunidade Santa Rita;Santa Rita;-18.443756;-46.464722;própria;431;;TR-001;CH-101;AL-01
+Santa Rita;alta;UC-00013;Sítio Primavera;Sítio Primavera, Com. Sta. Rita;Santa Rita;-18.444423;-46.465587;própria;451;;TR-001;CH-101;AL-01
+Água Limpa;alta;UC-00062;Sítio Pinheirinho;Sítio Pinheirinho, Área Rural;;-18.415373;-46.42471;herdada do trafo;19;;TR-027;CH-102;AL-01
+Água Limpa;alta;UC-00080;Sítio São Sebastião;Sítio São Sebastião, Agua Limpa;Água Limpa;-18.415061;-46.424774;própria;31;;TR-027;CH-102;AL-01
+Água Limpa;alta;UC-00073;Chácara Nossa Senhora Aparecida;Chácara Nossa Senhora Aparecida, Com. Agua Limpa;Água Limpa;-18.414904;-46.424589;própria;40;;TR-020;CH-102;AL-01
+Água Limpa;alta;UC-00071;Sítio Nossa Senhora Aparecida;Sítio Nossa Senhora Aparecida, Bairro Água Limpa;Água Limpa;-18.415544;-46.4242;própria;50;;TR-027;CH-102;AL-01
+Água Limpa;alta;UC-00065;Fazenda Primavera;Fazenda Primavera, Estrada do Cascalho, km 12;;-18.415666;-46.424965;própria;62;;TR-021;CH-102;AL-01
+Água Limpa;alta;UC-00056;Sítio Recanto Verde;Sítio Recanto Verde, Agua Lipma;Água Limpa;-18.414704;-46.425033;própria;79;;TR-021;CH-102;AL-01
+Água Limpa;alta;UC-00064;Sítio São José;Sítio São José, Agua Lipma;Água Limpa;-18.415005;-46.423794;própria;87;;TR-020;CH-102;AL-01
+Água Limpa;alta;UC-00066;Sítio Ipê Amarelo;Sítio Ipê Amarelo, Comunidade Água Limpa;Água Limpa;-18.415157;-46.425837;própria;134;;TR-022;CH-102;AL-01
+Água Limpa;alta;UC-00063;Chácara Mangueiras;Chácara Mangueiras, Com. Agua Limpa;Água Limpa;-18.415981;-46.423486;própria;140;;TR-028;CH-102;AL-01
+Água Limpa;alta;UC-00055;Fazenda Estrela;Fazenda Estrela, s/n, Zona Rural;s/n, Zona Rural;-18.414296;-46.425499;própria;146;;TR-020;CH-102;AL-01
+Água Limpa;alta;UC-00072;Fazenda Ipê Amarelo;Fazenda Ipê Amarelo, Bairro Água Limpa;Água Limpa;-18.415449;-46.4231;própria;157;;TR-028;CH-102;AL-01
+Água Limpa;alta;UC-00079;Sítio Morro Alto;Sítio Morro Alto, Comunidade Água Limpa;Água Limpa;-18.414637;-46.423026;própria;177;;TR-026;CH-102;AL-01
+Água Limpa;alta;UC-00070;Sítio Monte Alegre;Sítio Monte Alegre, Com. Agua Limpa;Água Limpa;-18.413649;-46.424801;própria;181;;TR-026;CH-102;AL-01
+Água Limpa;alta;UC-00075;Sítio Água Branca;Sítio Água Branca, Comunidade Água Limpa;Água Limpa;-18.414029;-46.425681;própria;181;;TR-022;CH-102;AL-01
+Água Limpa;alta;UC-00060;Sítio Água Branca;Sítio Água Branca, Bairro Água Limpa;Água Limpa;-18.415404;-46.422834;própria;184;;TR-025;CH-102;AL-01
+Água Limpa;alta;UC-00074;Sítio Três Irmãos;Sítio Três Irmãos, Bairro Água Limpa;Água Limpa;-18.414568;-46.426333;própria;202;;TR-021;CH-102;AL-01
+Água Limpa;alta;UC-00061;Chácara Boa Esperança;Chácara Boa Esperança, Agua Lipma;Água Limpa;-18.414001;-46.422969;própria;220;;TR-026;CH-102;AL-01
+Água Limpa;alta;UC-00068;Fazenda Lagoa Seca;Fazenda Lagoa Seca, Agua Lipma;Água Limpa;-18.415213;-46.42711;própria;268;;TR-024;CH-102;AL-01
+Água Limpa;alta;UC-00058;Sítio Água Branca;Sítio Água Branca, Estrada do Cascalho, km 13;;-18.417075;-46.42288;própria;269;;TR-023;CH-102;AL-01
+Água Limpa;alta;UC-00076;Sítio Monte Alegre;Sítio Monte Alegre, Área Rural;;-18.417698;-46.424345;própria;272;;TR-023;CH-102;AL-01
+Água Limpa;alta;UC-00067;Sítio Cachoeira;Sítio Cachoeira, s/n, Zona Rural;s/n, Zona Rural;-18.417687;-46.424058;própria;275;;TR-023;CH-102;AL-01
+Água Limpa;alta;UC-00059;Sítio Monte Alegre;Sítio Monte Alegre, Comunidade Água Limpa;Água Limpa;-18.415485;-46.427352;própria;295;;TR-024;CH-102;AL-01
+Água Limpa;alta;UC-00057;Chácara Capim Branco;Chácara Capim Branco, Zona Rural;;-18.414575;-46.427607;própria;330;;TR-022;CH-102;AL-01
+Água Limpa;alta;UC-00077;Sítio Cachoeira;Sítio Cachoeira, Agua Lipma;Água Limpa;-18.414117;-46.427882;própria;372;;TR-024;CH-102;AL-01
+Água Limpa;alta;UC-00069;Sítio Santa Helena;Sítio Santa Helena, Zona Rural;;-18.415314;-46.421011;própria;376;;TR-025;CH-102;AL-01
+Água Limpa;alta;UC-00078;Sítio Mangueiras;Sítio Mangueiras, Bairro Água Limpa;Água Limpa;-18.416196;-46.420911;própria;400;;TR-025;CH-102;AL-01
+Boa Vista;alta;UC-00138;Sítio Taquaral;Sítio Taquaral, s/n, Zona Rural;s/n, Zona Rural;-18.531627;-46.443801;própria;33;;TR-047;CH-301;AL-03
+Boa Vista;alta;UC-00140;Chácara Bom Jesus;Chácara Bom Jesus, Comunidade Boa Vista;Boa Vista;-18.531795;-46.443088;própria;45;;TR-049;CH-301;AL-03
+Boa Vista;alta;UC-00129;Chácara Boa Vista;Chácara Boa Vista, Bairro Rural Boa Vista;Boa Vista;-18.532126;-46.4431;própria;63;;TR-047;CH-301;AL-03
+Boa Vista;alta;UC-00149;Chácara Três Irmãos;Chácara Três Irmãos, Boa Vista;Boa Vista;-18.531401;-46.444058;própria;68;;TR-049;CH-301;AL-03
+Boa Vista;alta;UC-00147;Chácara Nossa Senhora Aparecida;Chácara Nossa Senhora Aparecida, Boa Vista;Boa Vista;-18.531792;-46.444746;própria;132;;TR-047;CH-301;AL-03
+Boa Vista;alta;UC-00134;Sítio São José;Sítio São José, Área Rural;;-18.533047;-46.443955;própria;157;;TR-052;CH-301;AL-03
+Boa Vista;alta;UC-00141;Fazenda Cachoeira;Fazenda Cachoeira, B. Vista;Boa Vista;-18.530488;-46.444706;própria;186;;TR-050;CH-301;AL-03
+Boa Vista;alta;UC-00146;Sítio Primavera;Sítio Primavera, Comunidade Boa Vista;Boa Vista;-18.532465;-46.44188;própria;191;;TR-046;CH-301;AL-03
+Boa Vista;alta;UC-00148;Sítio Bela Vista;Sítio Bela Vista, s/n, Zona Rural;s/n, Zona Rural;-18.531771;-46.441507;própria;211;;TR-048;CH-301;AL-03
+Boa Vista;alta;UC-00139;Sítio Nossa Senhora Aparecida;Sítio Nossa Senhora Aparecida, Estrada Velha, km 7;;-18.533154;-46.442069;própria;221;;TR-048;CH-301;AL-03
+Boa Vista;alta;UC-00137;Sítio Morro Alto;Sítio Morro Alto, B. Vista;Boa Vista;-18.53289;-46.44164;própria;237;;TR-046;CH-301;AL-03
+Boa Vista;alta;UC-00151;Sítio Três Irmãos;Sítio Três Irmãos, s/n, Zona Rural;s/n, Zona Rural;-18.533822;-46.442929;própria;243;;TR-051;CH-301;AL-03
+Boa Vista;alta;UC-00131;Fazenda Água Branca;Fazenda Água Branca, Estrada Velha, km 7;;-18.532876;-46.445474;própria;246;;TR-049;CH-301;AL-03
+Boa Vista;alta;UC-00132;Sítio Água Branca;Sítio Água Branca, B. Vista;Boa Vista;-18.529734;-46.444829;própria;260;;TR-050;CH-301;AL-03
+Boa Vista;alta;UC-00142;Sítio Alvorada;Sítio Alvorada, Área Rural;;-18.534212;-46.443203;própria;281;;TR-051;CH-301;AL-03
+Boa Vista;alta;UC-00127;Sítio Boa Esperança;Sítio Boa Esperança, Bairro Rural Boa Vista;Boa Vista;-18.529236;-46.442797;própria;285;;TR-045;CH-301;AL-03
+Boa Vista;alta;UC-00130;Fazenda Alvorada;Fazenda Alvorada, Comunidade Boa Vista;Boa Vista;-18.533224;-46.441262;própria;291;;TR-048;CH-301;AL-03
+Boa Vista;alta;UC-00144;Chácara Alvorada;Chácara Alvorada, Zona Rural;;-18.529304;-46.444706;própria;296;;TR-053;CH-301;AL-03
+Boa Vista;alta;UC-00128;Fazenda Bom Jesus;Fazenda Bom Jesus, Zona Rural;;-18.533711;-46.441555;própria;303;;TR-046;CH-301;AL-03
+Boa Vista;alta;UC-00143;Sítio Barra Mansa;Sítio Barra Mansa, B. Vista;Boa Vista;-18.534458;-46.442987;própria;311;;TR-052;CH-301;AL-03
+Boa Vista;alta;UC-00133;Chácara Santa Helena;Chácara Santa Helena, B. Vista;Boa Vista;-18.534592;-46.44371;própria;322;;TR-051;CH-301;AL-03
+Boa Vista;alta;UC-00145;Chácara Santa Luzia;Chácara Santa Luzia, Estrada Velha, km 7;;-18.528408;-46.443785;própria;368;;TR-045;CH-301;AL-03
+Boa Vista;alta;UC-00150;Chácara Vista Alegre;Chácara Vista Alegre, Bairro Rural Boa Vista;Boa Vista;-18.52898;-46.445547;própria;372;;TR-050;CH-301;AL-03
+Boa Vista;alta;UC-00135;Fazenda Bela Vista;Fazenda Bela Vista, Boa Vista;Boa Vista;-18.529545;-46.446478;própria;396;;TR-053;CH-301;AL-03
+Boa Vista;alta;UC-00136;Fazenda Paraíso;Fazenda Paraíso, Estrada Velha, km 7;;-18.527996;-46.443757;própria;414;;TR-045;CH-301;AL-03
+Barreiro;alta;UC-00085;Sítio Retiro;Sítio Retiro, Barreiro;Barreiro;-18.460512;-46.385411;própria;72;;TR-033;CH-201;AL-02
+Barreiro;alta;UC-00100;Chácara Monte Alegre;Chácara Monte Alegre, Comunidade do Barreiro;Barreiro;-18.458922;-46.385062;própria;110;;TR-032;CH-201;AL-02
+Barreiro;alta;UC-00101;Sítio Mangueiras;Sítio Mangueiras, Bareiro;Barreiro;-18.458923;-46.384469;própria;141;;TR-033;CH-201;AL-02
+Barreiro;alta;UC-00090;Sítio São José;Sítio São José, Zona Rural;;-18.460894;-46.384321;própria;158;;TR-030;CH-201;AL-02
+Barreiro;alta;UC-00095;Sítio Lagoa Seca;Sítio Lagoa Seca, Bareiro;Barreiro;-18.460937;-46.38649;própria;169;;TR-035;CH-201;AL-02
+Barreiro;alta;UC-00097;Sítio Primavera;Sítio Primavera, Comunidade do Barreiro;Barreiro;-18.459348;-46.383727;herdada do trafo;181;;TR-029;CH-201;AL-02
+Barreiro;alta;UC-00099;Chácara Primavera;Chácara Primavera, Comunidade do Barreiro;Barreiro;-18.458134;-46.385276;herdada do trafo;193;;TR-031;CH-201;AL-02
+Barreiro;alta;UC-00091;Sítio Santo Antônio;Sítio Santo Antônio, Povoado Barreiro;Barreiro;-18.458021;-46.385297;própria;206;;TR-031;CH-201;AL-02
+Barreiro;alta;UC-00093;Sítio Bela Vista;Sítio Bela Vista, Área Rural;;-18.460909;-46.383718;própria;208;;TR-033;CH-201;AL-02
+Barreiro;alta;UC-00092;Chácara Barra Mansa;Chácara Barra Mansa, Estrada da Serra, km 13;;-18.457905;-46.38572;própria;222;;TR-032;CH-201;AL-02
+Barreiro;alta;UC-00098;Fazenda Santa Luzia;Fazenda Santa Luzia, Estrada da Serra, km 13;;-18.462023;-46.38483;própria;246;;TR-030;CH-201;AL-02
+Barreiro;alta;UC-00102;Chácara Bela Vista;Chácara Bela Vista, Zona Rural;;-18.461792;-46.386781;própria;262;;TR-034;CH-201;AL-02
+Barreiro;alta;UC-00088;Fazenda Nossa Senhora Aparecida;Fazenda Nossa Senhora Aparecida, Área Rural;;-18.458527;-46.387417;própria;264;;TR-036;CH-201;AL-02
+Barreiro;alta;UC-00083;Sítio São Pedro;Sítio São Pedro, Zona Rural;;-18.45757;-46.386018;própria;265;;TR-031;CH-201;AL-02
+Barreiro;alta;UC-00084;Sítio Estrela;Sítio Estrela, Povoado Barreiro;Barreiro;-18.457579;-46.38438;própria;275;;TR-032;CH-201;AL-02
+Barreiro;alta;UC-00096;Sítio Bom Jesus;Sítio Bom Jesus, Zona Rural;;-18.458139;-46.387308;própria;282;;TR-036;CH-201;AL-02
+Barreiro;alta;UC-00104;Sítio Mangueiras;Sítio Mangueiras, Povoado Barreiro;Barreiro;-18.458027;-46.387191;própria;282;;TR-036;CH-201;AL-02
+Barreiro;alta;UC-00089;Sítio Bom Jesus;Sítio Bom Jesus, Estrada da Serra, km 13;;-18.458746;-46.382909;própria;287;;TR-029;CH-201;AL-02
+Barreiro;alta;UC-00103;Sítio Jatobá;Sítio Jatobá, s/n, Zona Rural;s/n, Zona Rural;-18.461829;-46.387142;própria;289;;TR-035;CH-201;AL-02
+Barreiro;alta;UC-00082;Sítio Taquaral;Sítio Taquaral, Estrada da Serra, km 13;;-18.46171;-46.383321;própria;297;;TR-030;CH-201;AL-02
+Barreiro;alta;UC-00081;Fazenda Paraíso;Fazenda Paraíso, Barreiro;Barreiro;-18.459275;-46.382592;própria;299;;TR-029;CH-201;AL-02
+Barreiro;alta;UC-00087;Chácara Sossego;Chácara Sossego, Área Rural;;-18.461258;-46.387808;própria;302;;TR-035;CH-201;AL-02
+Barreiro;alta;UC-00094;Sítio Três Irmãos;Sítio Três Irmãos, Estrada da Serra, km 13;;-18.462545;-46.384517;própria;311;;TR-034;CH-201;AL-02
+Barreiro;alta;UC-00086;Sítio Pinheirinho;Sítio Pinheirinho, Estrada da Serra, km 13;;-18.463358;-46.386757;própria;416;;TR-034;CH-201;AL-02
+Capão Seco;alta;UC-00172;Sítio Nossa Senhora Aparecida;Sítio Nossa Senhora Aparecida, Capao Seco;Capão Seco;-18.521989;-46.348136;própria;34;;TR-061;tronco;AL-02
+Capão Seco;alta;UC-00175;Chácara São Pedro;Chácara São Pedro, Comunidade Capão Seco;Capão Seco;-18.522192;-46.348742;própria;54;;TR-064;tronco;AL-02
+Capão Seco;alta;UC-00187;Fazenda Vista Alegre;Fazenda Vista Alegre, Cap. Seco;Capão Seco;-18.523074;-46.348524;própria;93;;TR-068;tronco;AL-02
+Capão Seco;alta;UC-00192;Fazenda Recanto Verde;Fazenda Recanto Verde, Capao Seco;Capão Seco;-18.5231;-46.347957;própria;96;;TR-065;tronco;AL-02
+Capão Seco;alta;UC-00188;Chácara Morro Alto;Chácara Morro Alto, Zona Rural;;-18.522962;-46.348868;própria;101;;TR-061;tronco;AL-02
+Capão Seco;alta;UC-00185;Sítio Barra Mansa;Sítio Barra Mansa, Rodovia Municipal 040, km 12;;-18.522209;-46.347236;própria;106;;TR-066;tronco;AL-02
+Capão Seco;alta;UC-00189;Sítio São José;Sítio São José, Comunidade Capão Seco;Capão Seco;-18.521861;-46.347294;própria;110;;TR-062;tronco;AL-02
+Capão Seco;alta;UC-00174;Fazenda Boa Sorte;Fazenda Boa Sorte, Comunidade Capão Seco;Capão Seco;-18.521462;-46.347518;própria;119;;TR-063;tronco;AL-02
+Capão Seco;alta;UC-00184;Sítio Monte Alegre;Sítio Monte Alegre, Comunidade Capão Seco;Capão Seco;-18.523674;-46.347885;própria;159;;TR-065;tronco;AL-02
+Capão Seco;alta;UC-00180;Sítio Barra Mansa;Sítio Barra Mansa, Comunidade Capão Seco;Capão Seco;-18.522407;-46.346648;própria;168;;TR-061;tronco;AL-02
+Capão Seco;alta;UC-00191;Sítio Capim Branco;Sítio Capim Branco, Capão Sêco;Capão Seco;-18.522108;-46.349918;própria;179;;TR-064;tronco;AL-02
+Capão Seco;alta;UC-00182;Fazenda Taquaral;Fazenda Taquaral, s/n, Zona Rural;s/n, Zona Rural;-18.521294;-46.346882;própria;180;;TR-063;tronco;AL-02
+Capão Seco;alta;UC-00176;Sítio Água Branca;Sítio Água Branca, Zona Rural;;-18.523861;-46.34874;própria;184;;TR-065;tronco;AL-02
+Capão Seco;alta;UC-00181;Fazenda Boa Vista;Fazenda Boa Vista, Cap. Seco;Capão Seco;-18.520595;-46.348061;própria;189;;TR-062;tronco;AL-02
+Capão Seco;alta;UC-00179;Fazenda Ipê Amarelo;Fazenda Ipê Amarelo, Capao Seco;Capão Seco;-18.524073;-46.348534;própria;202;;TR-068;tronco;AL-02
+Capão Seco;alta;UC-00183;Sítio Retiro;Sítio Retiro, Capão Sêco;Capão Seco;-18.521851;-46.350118;própria;204;;TR-064;tronco;AL-02
+Capão Seco;alta;UC-00177;Fazenda Santa Clara;Fazenda Santa Clara, Rodovia Municipal 040, km 12;;-18.522104;-46.346252;própria;210;;TR-066;tronco;AL-02
+Capão Seco;alta;UC-00173;Sítio Boa Sorte;Sítio Boa Sorte, Rodovia Municipal 040, km 12;;-18.520443;-46.347729;própria;211;;TR-062;tronco;AL-02
+Capão Seco;alta;UC-00193;Fazenda Recanto Verde;Fazenda Recanto Verde, Cap. Seco;Capão Seco;-18.523788;-46.346568;própria;243;;TR-066;tronco;AL-02
+Capão Seco;alta;UC-00190;Sítio Bela Vista;Sítio Bela Vista, Zona Rural;;-18.519914;-46.347099;própria;289;;TR-063;tronco;AL-02
+Capão Seco;alta;UC-00178;Chácara Monte Alegre;Chácara Monte Alegre, Capão Sêco;Capão Seco;-18.522428;-46.35104;própria;297;;TR-067;tronco;AL-02
+Capão Seco;alta;UC-00186;Sítio São Pedro;Sítio São Pedro, Capão Sêco;Capão Seco;-18.522777;-46.351431;própria;342;;TR-067;tronco;AL-02
+Córrego Fundo;alta;UC-00116;Sítio Santa Helena;Sítio Santa Helena, Corrego Fundo;Córrego Fundo;-18.428038;-46.358248;herdada do trafo;36;;TR-040;CH-201;AL-02
+Córrego Fundo;alta;UC-00122;Chácara Santa Clara;Chácara Santa Clara, Corrego Fundo;Córrego Fundo;-18.427445;-46.358555;herdada do trafo;45;;TR-038;CH-201;AL-02
+Córrego Fundo;alta;UC-00123;Sítio Mangueiras;Sítio Mangueiras, Área Rural;;-18.428054;-46.357796;própria;60;;TR-039;CH-201;AL-02
+Córrego Fundo;alta;UC-00124;Fazenda Três Irmãos;Fazenda Três Irmãos, s/n, Zona Rural;s/n, Zona Rural;-18.427299;-46.357479;própria;93;;TR-040;CH-201;AL-02
+Córrego Fundo;alta;UC-00108;Sítio Palmeiras;Sítio Palmeiras, Estrada da Serra, km 18;;-18.428069;-46.357268;própria;110;;TR-040;CH-201;AL-02
+Córrego Fundo;alta;UC-00117;Sítio São José;Sítio São José, Corr. Fundo;Córrego Fundo;-18.426711;-46.358618;própria;119;;TR-041;CH-201;AL-02
+Córrego Fundo;alta;UC-00115;Chácara Morro Alto;Chácara Morro Alto, Área Rural;;-18.426748;-46.357668;própria;124;;TR-039;CH-201;AL-02
+Córrego Fundo;alta;UC-00113;Sítio Nossa Senhora Aparecida;Sítio Nossa Senhora Aparecida, Zona Rural;;-18.428079;-46.359531;própria;142;;TR-037;CH-201;AL-02
+Córrego Fundo;alta;UC-00114;Sítio Água Branca;Sítio Água Branca, Estrada da Serra, km 18;;-18.426628;-46.359051;própria;149;;TR-038;CH-201;AL-02
+Córrego Fundo;alta;UC-00112;Fazenda Santa Clara;Fazenda Santa Clara, s/n, Zona Rural;s/n, Zona Rural;-18.428645;-46.357137;própria;156;;TR-044;CH-201;AL-02
+Córrego Fundo;alta;UC-00125;Sítio Monte Alegre;Sítio Monte Alegre, Corr. Fundo;Córrego Fundo;-18.426457;-46.35899;própria;161;;TR-041;CH-201;AL-02
+Córrego Fundo;alta;UC-00106;Fazenda Mangueiras;Fazenda Mangueiras, Comunidade Córrego Fundo;Córrego Fundo;-18.426408;-46.358906;própria;162;;TR-038;CH-201;AL-02
+Córrego Fundo;alta;UC-00107;Sítio São Sebastião;Sítio São Sebastião, Estrada da Serra, km 18;;-18.42628;-46.357982;própria;162;;TR-039;CH-201;AL-02
+Córrego Fundo;alta;UC-00109;Sítio Recanto Verde;Sítio Recanto Verde, Estrada da Serra, km 18;;-18.426687;-46.359645;própria;188;;TR-041;CH-201;AL-02
+Córrego Fundo;alta;UC-00118;Sítio Recanto Verde;Sítio Recanto Verde, Corrego Fundo;Córrego Fundo;-18.427489;-46.356188;própria;218;;TR-042;CH-201;AL-02
+Córrego Fundo;alta;UC-00119;Sítio Cachoeira;Sítio Cachoeira, Corr. Fundo;Córrego Fundo;-18.428763;-46.360076;própria;226;;TR-043;CH-201;AL-02
+Córrego Fundo;alta;UC-00121;Sítio São Pedro;Sítio São Pedro, Estrada da Serra, km 17;;-18.428836;-46.360117;própria;234;;TR-037;CH-201;AL-02
+Córrego Fundo;alta;UC-00111;Sítio Pau d'Alho;Sítio Pau d'Alho, Corrego Fundo;Córrego Fundo;-18.428593;-46.360485;própria;256;;TR-043;CH-201;AL-02
+Córrego Fundo;alta;UC-00105;Chácara Estrela;Chácara Estrela, Corr. Fundo;Córrego Fundo;-18.427507;-46.360762;própria;267;;TR-037;CH-201;AL-02
+Córrego Fundo;alta;UC-00120;Fazenda São Sebastião;Fazenda São Sebastião, Cór. Fundo;Córrego Fundo;-18.429276;-46.356157;própria;280;;TR-044;CH-201;AL-02
+Córrego Fundo;alta;UC-00110;Chácara Taquaral;Chácara Taquaral, Cór. Fundo;Córrego Fundo;-18.428351;-46.355336;própria;315;;TR-042;CH-201;AL-02
+Córrego Fundo;alta;UC-00126;Sítio Monte Alegre;Sítio Monte Alegre, Comunidade Córrego Fundo;Córrego Fundo;-18.42942;-46.355264;própria;367;;TR-042;CH-201;AL-02
+Cachoeirinha;média;UC-00047;Sítio Lagoa Seca;Sítio Lagoa Seca, s/n, Zona Rural;s/n, Zona Rural;-18.427614;-46.48575;própria;46;;TR-018;CH-101;AL-01
+Cachoeirinha;média;UC-00054;Chácara Boa Vista;Chácara Boa Vista, s/n, Zona Rural;s/n, Zona Rural;-18.42852;-46.485019;própria;81;;TR-018;CH-101;AL-01
+Cachoeirinha;média;UC-00035;Sítio Retiro;Sítio Retiro, Povoado da Cachoeirinha;Cachoeirinha;-18.427055;-46.485316;própria;96;;TR-013;CH-101;AL-01
+Cachoeirinha;média;UC-00039;Sítio Santa Helena;Sítio Santa Helena, Comunidade Cachoeirinha;Cachoeirinha;-18.428785;-46.486094;própria;120;;TR-017;CH-101;AL-01
+Cachoeirinha;média;UC-00042;Chácara Bom Jesus;Chácara Bom Jesus, Povoado da Cachoeirinha;Cachoeirinha;-18.427569;-46.486778;própria;146;;TR-013;CH-101;AL-01
+Cachoeirinha;média;UC-00043;Sítio Morro Alto;Sítio Morro Alto, Comunidade Cachoeirinha;Cachoeirinha;-18.429301;-46.485494;própria;155;;TR-014;CH-101;AL-01
+Cachoeirinha;média;UC-00040;Chácara Três Irmãos;Chácara Três Irmãos, Zona Rural;;-18.426367;-46.48572;própria;174;;TR-018;CH-101;AL-01
+Cachoeirinha;média;UC-00048;Sítio Água Branca;Sítio Água Branca, Cachoeirinha;Cachoeirinha;-18.427943;-46.483644;própria;190;;TR-019;CH-101;AL-01
+Cachoeirinha;média;UC-00041;Sítio Santa Luzia;Sítio Santa Luzia, Comunidade Cachoeirinha;Cachoeirinha;-18.428417;-46.483634;própria;199;;TR-019;CH-101;AL-01
+Cachoeirinha;média;UC-00046;Sítio Boa Sorte;Sítio Boa Sorte, Estrada do Cascalho, km 7;;-18.429697;-46.485769;própria;202;;TR-017;CH-101;AL-01
+Cachoeirinha;média;UC-00036;Sítio Jatobá;Sítio Jatobá, Zona Rural;;-18.429522;-46.486609;própria;218;;TR-014;CH-101;AL-01
+Cachoeirinha;média;UC-00051;Sítio Boa Sorte;Sítio Boa Sorte, Povoado da Cachoeirinha;Cachoeirinha;-18.426756;-46.487132;própria;220;;TR-015;CH-101;AL-01
+Cachoeirinha;média;UC-00049;Fazenda São Pedro;Fazenda São Pedro, Comunidade Cachoeirinha;Cachoeirinha;-18.426022;-46.486893;própria;260;;TR-013;CH-101;AL-01
+Cachoeirinha;média;UC-00037;Sítio Nossa Senhora Aparecida;Sítio Nossa Senhora Aparecida, Cachoeirinha;Cachoeirinha;-18.426498;-46.487435;própria;263;;TR-015;CH-101;AL-01
+Cachoeirinha;média;UC-00050;Fazenda Mangueiras;Fazenda Mangueiras, Cachoeirinha;Cachoeirinha;-18.430295;-46.485559;própria;266;;TR-014;CH-101;AL-01
+Cachoeirinha;média;UC-00053;Sítio Recanto Verde;Sítio Recanto Verde, s/n, Zona Rural;s/n, Zona Rural;-18.429944;-46.487174;própria;292;;TR-017;CH-101;AL-01
+Cachoeirinha;média;UC-00052;Fazenda Vista Alegre;Fazenda Vista Alegre, Área Rural;;-18.426655;-46.482913;própria;301;;TR-016;CH-101;AL-01
+Cachoeirinha;média;UC-00038;Sítio Ipê Amarelo;Sítio Ipê Amarelo, Cachoeirinha;Cachoeirinha;-18.428564;-46.482499;própria;319;;TR-016;CH-101;AL-01
+Cachoeirinha;média;UC-00044;Sítio Boa Esperança;Sítio Boa Esperança, Povoado da Cachoeirinha;Cachoeirinha;-18.425229;-46.487308;própria;357;;TR-015;CH-101;AL-01
+Cachoeirinha;média;UC-00045;Sítio Bom Jesus;Sítio Bom Jesus, Povoado da Cachoeirinha;Cachoeirinha;-18.427364;-46.482043;própria;364;;TR-016;CH-101;AL-01
+Pedra Branca;alta;UC-00165;Chácara Sossego;Chácara Sossego, Pedra Branca;Pedra Branca;-18.559092;-46.396344;própria;28;;TR-060;CH-302;AL-03
+Pedra Branca;alta;UC-00163;Sítio Palmeiras;Sítio Palmeiras, Pedra Bca;Pedra Branca;-18.558139;-46.395851;própria;91;;TR-058;CH-302;AL-03
+Pedra Branca;alta;UC-00160;Sítio Barra Mansa;Sítio Barra Mansa, Zona Rural;;-18.558832;-46.395324;própria;102;;TR-055;CH-302;AL-03
+Pedra Branca;alta;UC-00153;Sítio Pinheirinho;Sítio Pinheirinho, Zona Rural;;-18.558318;-46.395341;própria;116;;TR-055;CH-302;AL-03
+Pedra Branca;alta;UC-00171;Sítio Boa Vista;Sítio Boa Vista, Povoado Pedra Branca;Pedra Branca;-18.5601;-46.395908;própria;146;;TR-059;CH-302;AL-03
+Pedra Branca;alta;UC-00156;Sítio Santo Antônio;Sítio Santo Antônio, Zona Rural;;-18.559753;-46.395272;própria;148;;TR-058;CH-302;AL-03
+Pedra Branca;alta;UC-00158;Chácara Santa Luzia;Chácara Santa Luzia, Pedra Branca;Pedra Branca;-18.557489;-46.396301;própria;151;;TR-060;CH-302;AL-03
+Pedra Branca;alta;UC-00161;Sítio Palmeiras;Sítio Palmeiras, s/n, Zona Rural;s/n, Zona Rural;-18.559462;-46.397607;própria;155;;TR-056;CH-302;AL-03
+Pedra Branca;alta;UC-00164;Sítio Santo Antônio;Sítio Santo Antônio, s/n, Zona Rural;s/n, Zona Rural;-18.559303;-46.39797;própria;185;;TR-059;CH-302;AL-03
+Pedra Branca;alta;UC-00157;Sítio Santa Luzia;Sítio Santa Luzia, Pedra Bca;Pedra Branca;-18.55999;-46.397763;própria;202;;TR-059;CH-302;AL-03
+Pedra Branca;alta;UC-00167;Fazenda Vista Alegre;Fazenda Vista Alegre, Pedra Bca;Pedra Branca;-18.557011;-46.396068;própria;205;;TR-055;CH-302;AL-03
+Pedra Branca;alta;UC-00169;Sítio Boa Sorte;Sítio Boa Sorte, Área Rural;;-18.560388;-46.395242;própria;205;;TR-057;CH-302;AL-03
+Pedra Branca;alta;UC-00168;Sítio Paraíso;Sítio Paraíso, Estrada Velha, km 13;;-18.5594;-46.398415;própria;233;;TR-056;CH-302;AL-03
+Pedra Branca;alta;UC-00166;Chácara São José;Chácara São José, Estrada Velha, km 13;;-18.556533;-46.395891;própria;260;;TR-054;CH-302;AL-03
+Pedra Branca;alta;UC-00170;Fazenda Nossa Senhora Aparecida;Fazenda Nossa Senhora Aparecida, Comunidade Pedra Branca;Pedra Branca;-18.558931;-46.39383;própria;260;;TR-058;CH-302;AL-03
+Pedra Branca;alta;UC-00154;Fazenda Taquaral;Fazenda Taquaral, Pedra Bca;Pedra Branca;-18.559775;-46.398581;própria;263;;TR-056;CH-302;AL-03
+Pedra Branca;alta;UC-00159;Sítio Pinheirinho;Sítio Pinheirinho, s/n, Zona Rural;s/n, Zona Rural;-18.556718;-46.397397;própria;264;;TR-054;CH-302;AL-03
+Pedra Branca;alta;UC-00162;Sítio Retiro;Sítio Retiro, Pedra Branca;Pedra Branca;-18.561327;-46.396247;própria;277;;TR-057;CH-302;AL-03
+Pedra Branca;alta;UC-00155;Sítio Boa Vista;Sítio Boa Vista, Estrada Velha, km 13;;-18.560178;-46.393914;própria;292;;TR-057;CH-302;AL-03
+Pedra Branca;alta;UC-00152;Sítio Ipê Amarelo;Sítio Ipê Amarelo, Pedra Branca;Pedra Branca;-18.556092;-46.396487;própria;307;;TR-054;CH-302;AL-03
+(sem comunidade);-;UC-00202;Sítio Pau d'Alho;Sítio Pau d'Alho, Rodovia Municipal 040, km 10;;-18.51668;-46.361004;própria;1485;Capão Seco;TR-077;tronco;AL-02
+(sem comunidade);-;UC-00206;Chácara Lagoa Seca;Chácara Lagoa Seca, Estrada do Cascalho, km 5;;-18.462722;-46.469703;própria;1965;Santa Rita;TR-081;CH-101;AL-01
+(sem comunidade);-;UC-00211;Sítio Capim Branco;Sítio Capim Branco, Estrada do Cascalho, km 5;;-18.453153;-46.479522;própria;1985;Santa Rita;TR-086;CH-101;AL-01
+(sem comunidade);-;UC-00201;Sítio Retiro;Sítio Retiro, Estrada Velha, km 9;;-18.539454;-46.423787;própria;2253;Boa Vista;TR-076;CH-301;AL-03
+(sem comunidade);-;UC-00197;Fazenda Bom Jesus;Fazenda Bom Jesus, Estrada da Serra, km 11;;-18.47233;-46.402762;própria;2303;Barreiro;TR-072;CH-201;AL-02
+(sem comunidade);-;UC-00208;Sítio Bom Jesus;Sítio Bom Jesus, Estrada Velha, km 5;;-18.522305;-46.463331;própria;2341;Boa Vista;TR-083;CH-301;AL-03
+(sem comunidade);-;UC-00215;Chácara Estrela;Chácara Estrela, Estrada Velha, km 10;;-18.545829;-46.416177;própria;2551;Pedra Branca;TR-090;CH-302;AL-03
+(sem comunidade);-;UC-00198;Sítio Monte Alegre;Sítio Monte Alegre, Estrada da Serra, km 10;;-18.473004;-46.409334;própria;2924;Barreiro;TR-073;CH-201;AL-02
+(sem comunidade);-;UC-00222;Sítio Pinheirinho;Sítio Pinheirinho, Estrada da Serra, km 10;;-18.469475;-46.413282;própria;3137;Barreiro;TR-097;CH-201;AL-02
+(sem comunidade);-;UC-00223;Fazenda Capim Branco;Fazenda Capim Branco, Estrada do Cascalho, km 4;;-18.470229;-46.479228;própria;3193;Santa Rita;TR-098;CH-101;AL-01
+(sem comunidade);-;UC-00203;Sítio Taquaral;Sítio Taquaral, Estrada da Serra, km 9;;-18.469745;-46.416246;própria;3442;Barreiro;TR-078;CH-201;AL-02
+(sem comunidade);-;UC-00216;Sítio Alvorada;Sítio Alvorada, Estrada da Serra, km 9;;-18.470683;-46.422334;própria;4086;Barreiro;TR-091;CH-201;AL-02
+(sem comunidade);-;UC-00195;Sítio Bela Vista;Sítio Bela Vista, Estrada da Serra, km 7;;-18.475277;-46.437127;própria;4130;Santa Rita;TR-070;CH-102;AL-01
+(sem comunidade);-;UC-00220;Fazenda Santa Helena;Fazenda Santa Helena, Estrada Velha, km 3;;-18.510167;-46.475693;própria;4159;Boa Vista;TR-095;CH-301;AL-03
+(sem comunidade);-;UC-00207;Fazenda Cachoeira;Fazenda Cachoeira, Estrada da Serra, km 3;;-18.485075;-46.471949;herdada do trafo;4404;Santa Rita;TR-082;CH-101;AL-01
+(sem comunidade);-;UC-00204;Sítio Recanto Verde;Sítio Recanto Verde, Rodovia Municipal 040, km 7;;-18.509889;-46.388027;própria;4422;Capão Seco;TR-079;tronco;AL-02
+(sem comunidade);-;UC-00218;Chácara Paraíso;Chácara Paraíso, Estrada do Cascalho, km 3;;-18.47721;-46.488852;própria;4427;Santa Rita;TR-093;CH-101;AL-01
+(sem comunidade);-;UC-00194;Sítio São Sebastião;Sítio São Sebastião, Estrada da Serra, km 7;;-18.479445;-46.436623;própria;4529;Santa Rita;TR-069;CH-102;AL-01
+(sem comunidade);-;UC-00212;Fazenda Monte Alegre;Fazenda Monte Alegre, Rodovia Municipal 040, km 1;;-18.490587;-46.438967;própria;4602;Boa Vista;TR-087;CH-301;AL-03
+(sem comunidade);-;UC-00214;Fazenda Santa Helena;Fazenda Santa Helena, Rodovia Municipal 040, km 4;;-18.499629;-46.415563;própria;4632;Boa Vista;TR-089;CH-301;AL-03
+(sem comunidade);-;UC-00200;Sítio Jatobá;Sítio Jatobá, Rodovia Municipal 040, km 7;;-18.508332;-46.390297;própria;4705;Capão Seco;TR-075;tronco;AL-02
+(sem comunidade);-;UC-00213;Sítio Taquaral;Sítio Taquaral, Rodovia Municipal 040, km 5;;-18.495661;-46.411745;própria;4862;Barreiro;TR-088;CH-201;AL-02
+(sem comunidade);-;UC-00205;Chácara Boa Sorte;Chácara Boa Sorte, Rodovia Municipal 040, km 5;;-18.500313;-46.40953;própria;5008;Boa Vista;TR-080;CH-301;AL-03
+(sem comunidade);-;UC-00199;Sítio Retiro;Sítio Retiro, Rodovia Municipal 040, km 5;;-18.499184;-46.409982;própria;5063;Boa Vista;TR-074;CH-301;AL-03
+(sem comunidade);-;UC-00209;Chácara Cachoeira;Chácara Cachoeira, Estrada da Serra, km 2;;-18.489883;-46.480417;própria;5190;Santa Rita;TR-084;CH-101;AL-01
+(sem comunidade);-;UC-00221;Fazenda Taquaral;Fazenda Taquaral, Estrada do Cascalho, km 2;;-18.486053;-46.491387;própria;5372;Santa Rita;TR-096;CH-101;AL-01
+(sem comunidade);-;UC-00196;Sítio Sossego;Sítio Sossego, Estrada do Cascalho, km 2;;-18.487267;-46.491664;própria;5499;Santa Rita;TR-071;CH-101;AL-01
+(sem comunidade);-;UC-00217;Sítio Capim Branco;Sítio Capim Branco, Estrada do Cascalho, km 2;;-18.490259;-46.492043;própria;5798;Santa Rita;TR-092;CH-101;AL-01
+(sem comunidade);-;UC-00219;Sítio Estrela;Sítio Estrela, Estrada da Serra, km 2;;-18.49648;-46.486298;própria;5983;Boa Vista;TR-094;CH-301;AL-03
+(sem comunidade);-;UC-00210;Sítio Taquaral;Sítio Taquaral, Estrada do Cascalho, km 1;;-18.494588;-46.498842;herdada do trafo;6603;Santa Rita;TR-085;CH-101;AL-01

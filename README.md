@@ -14,6 +14,7 @@ python gerar_cenario.py          # gera dados/*.csv
 python mvp_aviso.py CH-101       # ou AL-01, AL-02, AL-03, CH-102, CH-201, CH-301, CH-302
 python mapa_rede.py              # mapa interativo da rede completa
 python mapa_rede.py CH-101       # mapa interativo de um desligamento + aviso gerado
+python agrupar_comunidades.py    # residências agrupadas por comunidade (CSV + mapa)
 ```
 
 Abra `saidas/mapa_rede.html` (ou `saidas/mapa_rede_ch_101.html`) no navegador.
@@ -42,6 +43,18 @@ comunidades, localidades oficiais e estradas. Fundo: mapa claro, OpenStreetMap o
 
 Ao passar uma chave ou alimentador, a rede desligada e os clientes afetados ficam
 em vermelho, e um painel mostra o aviso de rádio gerado, com a redução de tempo.
+
+## Residências por comunidade (`agrupar_comunidades.py`)
+
+Agrupa todas as residências por comunidade, sem depender de desligamento:
+
+- `saidas/residencias_por_comunidade.csv`: cada UC com sua comunidade, confiança, nome encontrado
+  no endereço, distância ao centro (ou comunidade mais próxima, para isoladas), trafo, chave e alimentador;
+- `saidas/comunidades.csv`: resumo por comunidade (nº de residências, centro, raio, área, % com o nome
+  no endereço, grafias encontradas, alimentadores/chaves/trafos que a atendem);
+- `saidas/mapa_comunidades.html`: contorno de cada comunidade; clicando, aparece a lista de residências.
+
+Os CSVs usam `;` e UTF-8 com BOM, para abrir direto no Excel.
 
 ## Pipeline (`mvp_aviso.py`)
 
